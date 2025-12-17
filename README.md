@@ -1,32 +1,105 @@
-# CODSOFT — Python Internship Projects
+ODSOFT Artificial Intelligence Internship
 
-**CODSOFT** is a vibrant community committed to leadership, learning, student engagement, and collaborative growth. Through mentorship, workshops and shared-learning projects, we empower individuals to develop skills and build meaningful projects.  
-Visit: [www.codsoft.in](https://www.codsoft.in)  
+This repository contains the tasks completed as part of the Artificial Intelligence Internship at CODSOFT.
+The projects demonstrate fundamental AI concepts including rule-based systems, game intelligence, and recommendation systems.
 
----
+👨‍💻 Intern Details
 
-## 📦 Projects Included
+Intern Name: Vamsi Krishna Tadisetti
 
-| Task | Project | Description |
-|------|---------|-------------|
-| 1 | To-Do List (CLI) | Create, view & remove tasks via command-line interface. |
-| 2 | Simple Calculator | Perform basic arithmetic operations (add, subtract, multiply, divide). |
-| 3 | Password Generator | Generate secure, random passwords of user-specified length. |
-| 4 | Rock–Paper–Scissors *(optional)* | Play rock–paper–scissors against the computer (with score tracking). |
-| 5 | Contact Book *(optional)* | Add/view/search/update/delete contacts (name, phone, email, address). |
+GitHub Username: vamsi200510
 
----
+Internship Domain: Artificial Intelligence
 
-## 🔧 Prerequisites
+Organization: CODSOFT
 
-- Python 3.x installed  
-- Basic familiarity with running Python scripts via terminal / command-line  
+📂 Repository Structure
+CODSOFT/
+│
+├── task1_chatbot/
+│   ├── chatbot.py
+│   └── README.md
+│
+├── Task2_TicTacToe_AI/
+│   ├── tic_tac_toe_ai.py
+│   └── README.md
+│
+├── Task4_Recommendation_System/
+│   ├── recommendation.py
+│   └── README.md
+│
+└── README.md
 
----
+✅ Tasks Completed
+🔹 Task 1: Rule-Based Chatbot
 
-## 🚀 How to Get Started
+Developed a simple chatbot using if-else logic and predefined rules.
 
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/YourUsername/CODSOFT.git
-   cd CODSOFT
+Responds to user inputs such as greetings, help queries, and general questions.
+
+Helps understand basic NLP concepts and conversation flow.
+
+Technologies Used:
+
+Python
+
+🔹 Task 2: Tic-Tac-Toe AI
+
+Implemented an intelligent Tic-Tac-Toe game using the Minimax algorithm.
+
+The AI plays optimally against the human player and is unbeatable.
+
+Demonstrates game theory, decision-making, and search algorithms.
+
+Technologies Used:
+
+Python
+
+Minimax Algorithm
+
+🔹 Task 4: Recommendation System
+
+Built a content-based recommendation system for movies.
+
+Uses cosine similarity to recommend items based on user preference.
+
+Provides insight into real-world recommendation techniques.
+
+Technologies Used:
+
+Python
+
+Pandas
+
+Scikit-learn
+
+▶️ How to Run the Projects
+🔧 Prerequisites
+
+Python 3.x installed
+
+Required libraries:
+
+pip install pandas scikit-learn
+
+▶️ Run Task 1 (Chatbot)
+py chatbot.py
+
+▶️ Run Task 2 (Tic-Tac-Toe AI)
+py tic_tac_toe_ai.py
+
+▶️ Run Task 4 (Recommendation System)
+py recommendation.py
+
+🎥 Demonstration
+
+Each task has been demonstrated through a video and shared on LinkedIn as part of the internship requirements.
+The videos showcase code implementation and working output.
+
+🙏 Acknowledgment
+
+I would like to thank CODSOFT for providing this valuable internship opportunity and well-structured tasks that helped enhance my understanding of Artificial Intelligence concepts.
+
+🔗 GitHub Repository
+
+👉 https://github.com/vamsi200510
