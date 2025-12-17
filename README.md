@@ -13,23 +13,6 @@ Internship Domain: Artificial Intelligence
 
 Organization: CODSOFT
 
-📂 Repository Structure
-CODSOFT/
-│
-├── task1_chatbot/
-│   ├── chatbot.py
-│   └── README.md
-│
-├── Task2_TicTacToe_AI/
-│   ├── tic_tac_toe_ai.py
-│   └── README.md
-│
-├── Task4_Recommendation_System/
-│   ├── recommendation.py
-│   └── README.md
-│
-└── README.md
-
 ✅ Tasks Completed
 🔹 Task 1: Rule-Based Chatbot
 
